@@ -42,6 +42,6 @@ int main()
     insert(100,1);
     insert(200,2);
     insert(300,3);
-    print()
+    print();
     return 0;
 }
